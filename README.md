@@ -1,2 +1,2 @@
 # Android - AlertDialog - 弹窗
-博客：
+[我的博客](http://blog.csdn.net/guodongxiaren "Sth-J-L-T")
